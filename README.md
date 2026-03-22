@@ -1,4 +1,4 @@
-# Story-to-Animation Pipeline
+# 2D-Cartoon Pipeline
 
 Biến một câu chuyện ý tưởng thành video hoạt hình AI hoàn chỉnh trong 5 bước,
 chạy trực tiếp với Claude + kie.ai.
@@ -50,8 +50,8 @@ sudo apt install ffmpeg
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/your-username/story-to-animation.git
-cd story-to-animation
+git clone https://github.com/your-username/2d-cartoon.git
+cd 2D-cartoon
 
 # 2. Cài dependencies
 pip install -r requirements.txt
